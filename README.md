@@ -313,7 +313,7 @@ Reference links
 
 Static analyzers
 ----------------
-* https://github.com/dvershinin/gixy
+* https://github.com/MegaManSec/Gixy-Next
 
 Syntax highlighting
 -------------------
